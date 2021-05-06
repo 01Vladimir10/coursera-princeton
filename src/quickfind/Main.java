@@ -1,7 +1,5 @@
 package quickfind;
 
-import quickfind.alg.QuickFindLargestElement;
-
 import java.util.Scanner;
 
 public class Main {

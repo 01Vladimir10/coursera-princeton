@@ -1,4 +1,4 @@
-package quickfind.alg;
+package quickfind;
 
 import quickfind.model.UnionFind;
 
